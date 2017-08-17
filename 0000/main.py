@@ -8,7 +8,7 @@ __author__ = 'Insomnia'
 from PIL import Image, ImageDraw, ImageFont
 
 # 项目路径
-base_dir = '/usr/src/myapp/show-me-the-code/0000/';
+base_dir = '/usr/src/myapp/python_practice_everyday/0000/';
 
 # 设置所使用的字体，注意设置字体文件拥有可执行权限
 font = ImageFont.truetype(base_dir + "Arial.ttf", 24)
